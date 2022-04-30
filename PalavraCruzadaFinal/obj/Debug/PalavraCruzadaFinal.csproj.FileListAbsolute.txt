@@ -1,0 +1,15 @@
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\bin\Debug\PalavraCruzadaFinal.exe.config
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\bin\Debug\PalavraCruzadaFinal.exe
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\bin\Debug\PalavraCruzadaFinal.pdb
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.csproj.AssemblyReference.cache
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.csproj.SuggestedBindingRedirects.cache
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.Form1.resources
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.Historia5.resources
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.Properties.Resources.resources
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.csproj.GenerateResource.cache
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.csproj.CoreCompileInputs.cache
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.exe
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.pdb
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.Biologia6.resources
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.Quimica7.resources
+E:\Visial Studio\proj\PalavraCruzadaFinal\PalavraCruzadaFinal\obj\Debug\PalavraCruzadaFinal.Geografia9.resources
